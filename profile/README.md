@@ -1,5 +1,5 @@
 # On a Budget
-GDSC Solution Challenge 2023
+Submission for the 2023 GDSC Solution Challenge
 
 ## Run
 1. Run instructions on [backend](https://github.com/On-A-Budget/backend)
