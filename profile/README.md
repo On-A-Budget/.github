@@ -1,4 +1,4 @@
-# On a Budget
+# On A Budget
 Submission for the 2023 GDSC Solution Challenge
 
 ![Banner](https://github.com/On-A-Budget/.github/blob/main/images/banner.png)
